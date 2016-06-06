@@ -17,5 +17,16 @@ public class Programm {
         char y = 67; // 'C'
         System.out.println(x + "" + y);// вывели строку, содержащую символьные переменные x, y,
         // притом компьютер перевёл числа в их символьную интерпретацию, так как это тип char
+
+        /*int t;
+        System.out.println(t);  */
+        // Для того, чтобы проводить операции с переменной её нужно обязательно! проинциализировать
+
+        boolean r = true, s = false;
+        System.out.println(r + " " + s);
+
+        String str = "Привет мир!";
+        System.out.println(str);
     }
+
 }
