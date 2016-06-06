@@ -27,12 +27,6 @@ public class Programm {
 
         String str = "Привет мир!";
         System.out.println(str);
-
-        System.out.println("Привет мир!");
-        System.out.println("Привет мир!");
-        System.out.println("Привет мир!");
-        System.out.println("Привет мир!");
-        System.out.println("Привет мир!");
     }
 
 }
